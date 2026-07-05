@@ -10,11 +10,11 @@ st.set_page_config(
 )
 
 # Load Model & Encoders
-model = joblib.load("logistic_model.pkl")
-city_encoder = joblib.load("city_encoder.pkl")
-area_encoder = joblib.load("area_encoder.pkl")
-department_encoder = joblib.load("department_encoder.pkl")
-risk_encoder = joblib.load("risk_encoder.pkl")
+model = joblib.load("Model/logistic_model.pkl")
+city_encoder = joblib.load("Model/city_encoder.pkl")
+area_encoder = joblib.load("Model/area_encoder.pkl")
+department_encoder = joblib.load("Model/department_encoder.pkl")
+risk_encoder = joblib.load("Model/risk_encoder.pkl")
 
 # Sidebar
 st.sidebar.title("📊 Project Information")
