@@ -26,6 +26,7 @@ pip install -r requirements.txt
 
 ## 3. Project Structure
 
+```text
 HealthyLife_Project/
 │
 ├── Dataset/
@@ -36,7 +37,8 @@ HealthyLife_Project/
 │   ├── Dim_Location.csv
 │   └── Dim_Risk.csv
 │
-├── master.sql
+├── database/
+│   └── master.sql
 │
 ├── images/
 │   ├── Dashboard_Page1.png
@@ -61,9 +63,34 @@ HealthyLife_Project/
 
 ## 4. Run the Streamlit Application
 
+### Clone the Repository
+
+```bash
+git clone https://github.com/dixit2726/HealthyLife_Project.git
+```
+
+### Navigate to the Project Folder
+
+```bash
+cd HealthyLife_Project
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run the Application
+
 ```bash
 streamlit run app.py
 ```
+
+After running the command, open:
+
+http://localhost:8501ealthyLife_Project/
+
 
 ---
 
