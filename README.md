@@ -5,6 +5,9 @@ A complete Machine Learning and Data Analytics project that predicts whether a p
 The project combines **Python, MySQL, Machine Learning, Power BI, and Streamlit** to help healthcare organizations identify high-risk patients and improve patient retention through data-driven decisions.
 
 ---
+## Project: Patient Retention and Lifetime Value (LTV) Optimization
+_Coming soon — built during Ziro Digital Internship._
+
 
 # ⚡ Quick Start
 
