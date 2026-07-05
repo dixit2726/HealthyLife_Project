@@ -1,13 +1,12 @@
+## Project: Patient Retention and Lifetime Value (LTV) Optimization
+built during Ziro Digital Internship
+
+
 # 🏥 HealthyLife Clinic – Patient Churn Prediction System
 
 A complete Machine Learning and Data Analytics project that predicts whether a patient is likely to churn using demographic information, visit history, billing details, and patient behavior.
 
 The project combines **Python, MySQL, Machine Learning, Power BI, and Streamlit** to help healthcare organizations identify high-risk patients and improve patient retention through data-driven decisions.
-
----
-## Project: Patient Retention and Lifetime Value (LTV) Optimization
-_Coming soon — built during Ziro Digital Internship._
-
 
 # ⚡ Quick Start
 
