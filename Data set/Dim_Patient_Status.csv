@@ -1,0 +1,16 @@
+Status_Key,Patient_Status,Churn_Flag,Returning_Patient,Risk_Level,Followup_Required
+1,Active Patient,0,1,Low,No
+2,Active Patient,0,0,Medium,No
+3,Active Patient,0,1,Medium,Yes
+4,Active Patient,0,1,High,Yes
+5,Active Patient,0,1,Medium,No
+6,Active Patient,0,1,Low,Yes
+7,Churned Patient,1,0,High,Yes
+8,Active Patient,0,0,Low,No
+9,Active Patient,0,0,Medium,Yes
+10,Churned Patient,1,1,Medium,No
+11,Active Patient,0,0,Low,Yes
+12,Churned Patient,1,1,Low,No
+13,Churned Patient,1,1,Medium,Yes
+14,Churned Patient,1,1,High,Yes
+15,Churned Patient,1,1,Low,Yes

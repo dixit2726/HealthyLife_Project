@@ -1,0 +1,8 @@
+Department_Key,Department,Department_Category,Consultation_Type,Avg_Consultation_Fee,Criticality_Level
+1,General Medicine,Medical,OPD,500,Medium
+2,Orthopedics,Medical,OPD,1200,Medium
+3,Pediatrics,Medical,OPD,600,Medium
+4,Cardiology,Medical,OPD,2000,High
+5,ENT,Medical,OPD,800,Low
+6,Neurology,Medical,OPD,2200,High
+7,Dermatology,Medical,OPD,700,Low
